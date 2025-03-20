@@ -26,17 +26,3 @@ int yywrap() {
     return 1;
 }
 
-/* COMO COMPILAR E EXECUTAR */
-/*
-1. Salve este código como "lexer.l".
-2. Compile com os seguintes comandos no terminal:
-
-   flex lexer.l
-   gcc lex.yy.c -o lexer -lfl
-
-3. Execute o analisador com:
-
-   ./lexer < input.txt
-
-   ou insira o código diretamente no terminal após rodar ./lexer.
-*/
