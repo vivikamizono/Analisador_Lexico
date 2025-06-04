@@ -35,14 +35,14 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/Demuno">
         <img loading="lazy" src="https://github.com/Demuno.png" width="115" alt="Matheus Demuno">
         <br>
-        <sub>Matheus Demuno</sub>
+        <sub>Mateus Demuno</sub>
       </a>
     </td>
     <td align="center">
       <a href="https://github.com/daviduarts">
         <img loading="lazy" src="https://github.com/daviduarts.png" width="115" alt="David Uarts">
         <br>
-        <sub>David Uarts</sub>
+        <sub>Davi Duarte</sub>
       </a>
     </td>
     <td align="center">
@@ -63,7 +63,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       <a href="https://github.com/nicktim">
         <img loading="lazy" src="https://github.com/nicktim.png" width="115" alt="Nick Tim">
         <br>
-        <sub>Nick Tim</sub>
+        <sub>Nicolas Costa</sub>
       </a>
     </td>
     <td align="center">
