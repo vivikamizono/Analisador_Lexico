@@ -32,13 +32,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/Demuno">
-        <img loading="lazy" src="https://github.com/Demuno.png" width="115" alt="Matheus Demuno">
-        <br>
-        <sub>Mateus Demuno</sub>
-      </a>
-    </td>
-    <td align="center">
       <a href="https://github.com/daviduarts">
         <img loading="lazy" src="https://github.com/daviduarts.png" width="115" alt="David Uarts">
         <br>
@@ -46,10 +39,24 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
+      <a href="https://github.com/Demuno">
+        <img loading="lazy" src="https://github.com/Demuno.png" width="115" alt="Matheus Demuno">
+        <br>
+        <sub>Mateus Demuno</sub>
+      </a>
+    </td>
+    <td align="center">
       <a href="https://github.com/HenriqueFelau">
         <img loading="lazy" src="https://github.com/HenriqueFelau.png" width="115" alt="Henrique Felau">
         <br>
         <sub>Henrique Felau</sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Guiisonego">
+        <img loading="lazy" src="https://github.com/Guiisonego.png" width="115" alt="Guilherme Sonego">
+        <br>
+        <sub>Guilherme Sonego</sub>
       </a>
     </td>
     <td align="center">
@@ -75,5 +82,6 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
   </tr>
 </table>
+
 
 
